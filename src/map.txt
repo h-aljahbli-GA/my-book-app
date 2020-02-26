@@ -1,0 +1,20 @@
+                        app.js
+                            |
+         _ _ _ _ _ _ _ _ _ _|_ _ _ _
+        |                           |
+        |                           |
+        |                       BookCards.js
+        |                           |
+        |                           |
+        |                          Card
+        |
+        |
+    favorites
+        |
+        |
+        |
+FavoriteBookCards
+        |
+        |
+        |
+    Favorite cards

@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+  background: #F4F1EA;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #F4F1EA;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 10px 10px 10px 10px;
+  min-width:25vh;
+  max-width:25vh;
+  max-height: 35vh;
+  margin: 10px;
+  background: whitesmoke;
+  
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 15px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 10px;
+  display:flex;
+  overflow-x: scroll;
+}
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+/* icon component */
+a {
+  font-size: 25px;
+}
+
+
+::-webkit-scrollbar {
+  display: none;
+  }
+
+.favoriteContainer{
+  margin: auto;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "%7Busername%7D.github.io/%7Brepo-name%7D/static/css/main.91208810.chunk.css",
+    "main.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/main.60d04a40.chunk.js",
+    "main.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/main.60d04a40.chunk.js.map",
+    "runtime-main.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/runtime-main.9de0e162.js",
+    "runtime-main.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/runtime-main.9de0e162.js.map",
+    "static/js/2.c1bc97f1.chunk.js": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.c1bc97f1.chunk.js",
+    "static/js/2.c1bc97f1.chunk.js.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.c1bc97f1.chunk.js.map",
+    "index.html": "%7Busername%7D.github.io/%7Brepo-name%7D/index.html",
+    "precache-manifest.f0d90b309a229dfbf75277a3be6b923f.js": "%7Busername%7D.github.io/%7Brepo-name%7D/precache-manifest.f0d90b309a229dfbf75277a3be6b923f.js",
+    "service-worker.js": "%7Busername%7D.github.io/%7Brepo-name%7D/service-worker.js",
+    "static/css/main.91208810.chunk.css.map": "%7Busername%7D.github.io/%7Brepo-name%7D/static/css/main.91208810.chunk.css.map",
+    "static/js/2.c1bc97f1.chunk.js.LICENSE": "%7Busername%7D.github.io/%7Brepo-name%7D/static/js/2.c1bc97f1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9de0e162.js",
+    "static/js/2.c1bc97f1.chunk.js",
+    "static/css/main.91208810.chunk.css",
+    "static/js/main.60d04a40.chunk.js"
+  ]
+}
